@@ -1,0 +1,44 @@
+# Contexto del agente
+.agentContext/
+
+# Entornos de Python
+venv/
+.venv/
+env/
+.env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de distribución y compilación
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# MacOS
+.DS_Store
+
+# Archivos de IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de reporte y audio generados localmente (opcional ignorarlos)
+# reporte_final.md
+test_120bpm.wav
+*.mp3
